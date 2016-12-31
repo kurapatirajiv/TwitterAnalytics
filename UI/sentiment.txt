@@ -1,0 +1,5 @@
+key,value
+positive,1500
+verypositive,100
+negative,4055
+verynegative,5000

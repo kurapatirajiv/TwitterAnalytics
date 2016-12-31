@@ -1,0 +1,13 @@
+key,value
+Jan,9530
+Feb,10058
+Mar,17759
+Apr,7450
+May,6495
+Jun,6129
+Jul,6980
+Aug,8475
+Sep,6455
+Oct,7052
+Nov,7264
+Dec,7098

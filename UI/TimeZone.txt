@@ -1,0 +1,12 @@
+name,value
+Pacific Time ,3040
+Eastern Time ,2533
+Central Time ,1498
+Atlantic Time,458
+London,456
+Quito,427
+Mountain Time,311
+Arizona,272
+Amsterdam,234
+Athens,163
+Brasilia,152
