@@ -16,16 +16,29 @@ ii.	Perform Natural language processing on Tweets
 iii.	Evaluating tweet texts and Visualizing trend and other insights of data.
 
 References:
+
 a.	http://spark.apache.org/docs/latest/programming-guide.html
+
 b.	https://github.com/d3/d3/wiki/Gallery
+
 c.	http://bl.ocks.org/rsloan/7123450
+
 d.	http://bl.ocks.org/ericcoopey/6382449
+
 e.	http://bl.ocks.org/mbostock/3887193
+
 f.	http://www.highcharts.com/demo/line-basic/gray
+
 g.	http://docs.tweepy.org/en/v3.5.0/
+
 h.	https://www.scribd.com/doc/30146338/map-of-a-tweet
+
 i.	http://stanfordnlp.github.io/CoreNLP/
+
 j.	http://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf
+
 k.	http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf
+
 l.	https://www.youtube.com/watch?v=xqSp7060Gj0
+
 
