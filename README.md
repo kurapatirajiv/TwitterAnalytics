@@ -12,8 +12,11 @@ In this project I have used some advanced programming languages like Scala and l
 Project Phases:
 
 i.	Collect Tweets Using Twitter Streaming Api
+
 ii.	Perform Natural language processing on Tweets
+
 iii.	Evaluating tweet texts and Visualizing trend and other insights of data.
+
 
 References:
 
